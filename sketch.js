@@ -56,7 +56,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(1228, 900);
+  createCanvas(900, 900);
   textAlign(CENTER, BASELINE);
   textSize(fontSize);
   textFont('Times New Roman');
